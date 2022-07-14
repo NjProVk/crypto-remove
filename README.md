@@ -12,6 +12,6 @@ Safe deletion of files without the risk of data recovery! Run scripts - wait for
       <p><b>1. </b><code>git clone https://github.com/NjProVk/crypto-remove</code></p>
       <p><b>2. </b>cd crypto-remove</p>
       <p><b>3. </b><code>pip3 install datetime</code></p>
-      <p><b>4. </b><code>python3 main.py</code></p>
+      <p><b>4. </b><code>python3 main.py --help</code></p>
     </div>
 </div>
